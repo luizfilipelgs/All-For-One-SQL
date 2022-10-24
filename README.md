@@ -33,9 +33,7 @@ Um projeto com o codinome *All For One* em que foi praticado todos os conceitos 
 
   - ✨ **Dica:** A extensão `Remote - Containers` (que estará na seção de extensões recomendadas do VS Code) é indicada para que você possa desenvolver sua aplicação no container Docker direto no VS Code, como você faz com seus arquivos locais.
 
-  ![remote-containers](./images/remote-container.png)
-
-  <br />
+   <br />
 
   ## Sem Docker
 
